@@ -1,6 +1,10 @@
 .tulisan_warna{
     color: blue;
     text-align: center;
-    
+    text-decoration-line: underline;
     ;
+}
+body{
+    text-decoration: underline;
+    letter-spacing: 5px;
 }
